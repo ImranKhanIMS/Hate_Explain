@@ -1,0 +1,1010 @@
+{
+  "num_counterfactuals": 11611,
+  "config": {
+    "attribution_threshold": 0.01,
+    "label_preservation_threshold": 0.7,
+    "mlm_top_k": 50
+  },
+  "counterfactuals": [
+    {
+      "original_text": "i dont think im getting my baby them white 9 he has two white j and nikes not even touched",
+      "counterfactual_text": "i dont think im getting my own them white 9 he has two white j and nikes not even touched",
+      "replacement": {
+        "original": "baby",
+        "replacement": "own",
+        "position": 8,
+        "attribution_score": 0.4456116557121277
+      }
+    },
+    {
+      "original_text": "we cannot continue calling ourselves feminists if the rights of all womxn arent addressed yes to a sexual offences public list but will a trans lesbian bisexual and queer womxn be able to enter their information on the reporting sheet gender forum",
+      "counterfactual_text": "we cannot continue calling ourselves feminists if the rights of all womxn arent addressed yes to a sexual orientation public list but will a trans lesbian bisexual and queer womxn be able to enter their information on the reporting sheet gender forum",
+      "replacement": {
+        "original": "offences",
+        "replacement": "orientation",
+        "position": 23,
+        "attribution_score": 0.2291746586561203
+      }
+    },
+    {
+      "original_text": "laura loomer raped me while screaming at me in her disgusting kike language and said we must exterminate the goyim laura loomer loomergate",
+      "counterfactual_text": "laura loomer raped me while screaming at me in her disgusting kike language and said we must exterminate her goyim laura loomer loomergate",
+      "replacement": {
+        "original": "the",
+        "replacement": "her",
+        "position": 24,
+        "attribution_score": 0.08385345339775085
+      }
+    },
+    {
+      "original_text": "and this is why i end up with nigger trainee doctors who can not speak properly lack basic knowledge of biology it truly scary if the public only knew",
+      "counterfactual_text": "and this is why i grew up with nigger trainee doctors who can not speak properly lack basic knowledge of biology it truly scary if the public only knew",
+      "replacement": {
+        "original": "end",
+        "replacement": "grew",
+        "position": 6,
+        "attribution_score": 0.041092321276664734
+      }
+    },
+    {
+      "original_text": "guilty until proven innocent unless you are a jew a nigger or a lover of both",
+      "counterfactual_text": "guilty until proven innocent unless you are a jew a nigger or a lover of .",
+      "replacement": {
+        "original": "both",
+        "replacement": ".",
+        "position": 17,
+        "attribution_score": 0.04523886740207672
+      }
+    },
+    {
+      "original_text": "tired i can not support abortion from a moral standpoint wired i can support it morally easy stop looking at those little niglets as future doctors and see them for what they really are future rapists of white women and future welfare recipient of white tax dollars and future democrat voters",
+      "counterfactual_text": "tired i can not support abortion from a moral standpoint wired i can support it morally easy stop looking at those little niglets as future doctors and see them for what they really are future rapists of white women and future welfare recipients of white tax dollars and future democrat voters",
+      "replacement": {
+        "original": "recipient",
+        "replacement": "recipients",
+        "position": 47,
+        "attribution_score": 0.037013258785009384
+      }
+    },
+    {
+      "original_text": "<number> <number> <percent> of brits think multiculturalism is a failure i guess the other <percent> are happy with their muzzie master there no great in britain anymore soon big ben will be converted into a minaret",
+      "counterfactual_text": "< number > < number > < percent > of brits think multiculturalism is a failure i guess the other < percent > are happy with their muzzie master there no great in britain anymore soon big ben will be converted into a bigret",
+      "replacement": {
+        "original": "mina",
+        "replacement": "big",
+        "position": 48,
+        "attribution_score": 0.11816205084323883
+      }
+    },
+    {
+      "original_text": "<percent> cotton thigh highs to avoid contact with any gay chemicals",
+      "counterfactual_text": "< percent > cotton thigh highs to avoid contact with any harmful chemicals",
+      "replacement": {
+        "original": "gay",
+        "replacement": "harmful",
+        "position": 12,
+        "attribution_score": 0.725862979888916
+      }
+    },
+    {
+      "original_text": "oomf a <number> yearl old closet gay and obsessed with me someone help",
+      "counterfactual_text": "oomf a < number > yearl old closeted and obsessed with me someone help",
+      "replacement": {
+        "original": "gay",
+        "replacement": "##ed",
+        "position": 12,
+        "attribution_score": 0.7296350002288818
+      }
+    },
+    {
+      "original_text": "all of my exes were cute but they were hoes i guess i only attract fly looking thots 😴",
+      "counterfactual_text": "all of my exes were cute but they were hoes i guess i only got fly looking thots [UNK]",
+      "replacement": {
+        "original": "attract",
+        "replacement": "got",
+        "position": 17,
+        "attribution_score": 0.10753031820058823
+      }
+    },
+    {
+      "original_text": "<user> what did the old lady do was she a nazi or white supremacist",
+      "counterfactual_text": "< user > what did the old lady do was she a nazi or black supremacist",
+      "replacement": {
+        "original": "white",
+        "replacement": "black",
+        "position": 15,
+        "attribution_score": 0.1450594961643219
+      }
+    },
+    {
+      "original_text": "<user> <user> people act as if you can not say the same about the states obviously not all americans are pro guns not all americans support their government treatment of immigrants and foreigners but when it comes to israel suddenly the logic changes",
+      "counterfactual_text": "< user > < user > people act as if you can not say the same about the states obviously not all americans are pro guns not all americans support their government because of immigrants and foreigners but when it comes to israel suddenly the logic changes",
+      "replacement": {
+        "original": "treatment",
+        "replacement": "because",
+        "position": 33,
+        "attribution_score": 0.2023160457611084
+      }
+    },
+    {
+      "original_text": "anyways the fact that her outfit directly violates france law abt no face coverings veils but is still headlined in paris fashion week shows that the law was never abt obscured facial identification but abt white supremacy and islamophobia",
+      "counterfactual_text": "anyways the fact that her outfit directly violates france law abt no face coverings veils but is still used in paris fashion week shows that the law was never abt obscured facial identification but abt white supremacy and islamophobia",
+      "replacement": {
+        "original": "headlined",
+        "replacement": "used",
+        "position": 24,
+        "attribution_score": 0.18923860788345337
+      }
+    },
+    {
+      "original_text": "it funny how people offended by the word nigger have no problem calling people nazis what the difference",
+      "counterfactual_text": "it funny how people offended by the word 'gger have no problem calling people nazis what the difference",
+      "replacement": {
+        "original": "ni",
+        "replacement": "'",
+        "position": 9,
+        "attribution_score": 0.19004982709884644
+      }
+    },
+    {
+      "original_text": "why does anyone care what the albino nigger has to say",
+      "counterfactual_text": "why does anyone care what the oldbino nigger has to say",
+      "replacement": {
+        "original": "al",
+        "replacement": "old",
+        "position": 7,
+        "attribution_score": 0.021347425878047943
+      }
+    },
+    {
+      "original_text": "this sounds like a kike national socialist",
+      "counterfactual_text": "this sounds like a kike national .",
+      "replacement": {
+        "original": "socialist",
+        "replacement": ".",
+        "position": 8,
+        "attribution_score": 0.10334596782922745
+      }
+    },
+    {
+      "original_text": "if we could teach a giraffe to paint that would be one handy sumbitch",
+      "counterfactual_text": "if we could teach a youngraffe to paint that would be one handy sumbitch",
+      "replacement": {
+        "original": "gi",
+        "replacement": "young",
+        "position": 6,
+        "attribution_score": 0.11985011398792267
+      }
+    },
+    {
+      "original_text": "she wanna meet carti that bitch is a barbie 🦋",
+      "counterfactual_text": "she wanna meet carti that she is a barbie [UNK]",
+      "replacement": {
+        "original": "bitch",
+        "replacement": "she",
+        "position": 7,
+        "attribution_score": 0.5192493796348572
+      }
+    },
+    {
+      "original_text": "smiling cuz i am young black rich and i am handsome",
+      "counterfactual_text": "' cuz i am young black rich and i am handsome",
+      "replacement": {
+        "original": "smiling",
+        "replacement": "'",
+        "position": 1,
+        "attribution_score": 0.07036059349775314
+      }
+    },
+    {
+      "original_text": "<user> <user> <user> with a room full of white folks",
+      "counterfactual_text": "< user > < user > < user > with a roomful of white folks",
+      "replacement": {
+        "original": "full",
+        "replacement": "##ful",
+        "position": 13,
+        "attribution_score": 0.3976665139198303
+      }
+    },
+    {
+      "original_text": "<user> the irony is they are the ones whose mothers were raped by m invaders",
+      "counterfactual_text": "< user > the irony is they are the ones whose mothers were raped by the invaders",
+      "replacement": {
+        "original": "m",
+        "replacement": "the",
+        "position": 16,
+        "attribution_score": 1.9914016723632812
+      }
+    },
+    {
+      "original_text": "<user> no idea who these women are they get all the credit for jumping on after the women who been calling for impeachment take the hits and smears and told to go back to where they come from job well done unknown white congress women 🙄",
+      "counterfactual_text": "< user > no idea who these women are they get all the credit for jumping on after the women who been calling for impeachment take the hits and smears and told to go back to where they come from job well done unknown indian congress women [UNK]",
+      "replacement": {
+        "original": "white",
+        "replacement": "indian",
+        "position": 48,
+        "attribution_score": 0.24382176995277405
+      }
+    },
+    {
+      "original_text": "y is big baby davis a faggot on shameless doe",
+      "counterfactual_text": "he is big baby davis a faggot on shameless doe",
+      "replacement": {
+        "original": "y",
+        "replacement": "he",
+        "position": 1,
+        "attribution_score": 0.13052895665168762
+      }
+    },
+    {
+      "original_text": "<user> <user> babies in cages destroying environment by rolling back regulations siding with white supremacists bad mouthing gold star families shithole countries response to puerto rico that just a few",
+      "counterfactual_text": "< user > < user > babies in cages destroying environment by rolling back regulations siding with white supremacists bad mouthing gold star families shithole in response to puerto rico that just a few",
+      "replacement": {
+        "original": "countries",
+        "replacement": "in",
+        "position": 31,
+        "attribution_score": 0.3498344421386719
+      }
+    },
+    {
+      "original_text": "related instagram tags for jewelry fashionable designer trendy hairstyle fashion gram fashion blog menswear men style trend",
+      "counterfactual_text": "related instagram tags for : fashionable designer trendy hairstyle fashion gram fashion blog menswear men style trend",
+      "replacement": {
+        "original": "jewelry",
+        "replacement": ":",
+        "position": 6,
+        "attribution_score": 0.13761048018932343
+      }
+    },
+    {
+      "original_text": "niggas cry and complain so much i am starting to think you all the real females in the relationship 💀",
+      "counterfactual_text": "theggas cry and complain so much i am starting to think you all the real females in the relationship [UNK]",
+      "replacement": {
+        "original": "ni",
+        "replacement": "the",
+        "position": 1,
+        "attribution_score": 0.2648412585258484
+      }
+    },
+    {
+      "original_text": "remember kids the cucumber is the sluttiest vegetable",
+      "counterfactual_text": "remember kids the cucumber is the veryuttiest vegetable",
+      "replacement": {
+        "original": "sl",
+        "replacement": "very",
+        "position": 9,
+        "attribution_score": 0.29793182015419006
+      }
+    },
+    {
+      "original_text": "the flag of the maga fags in all it glory it comes with nigger red shoes too",
+      "counterfactual_text": "the flag of the maga fags in all it glory it comes with nigger red shoes .",
+      "replacement": {
+        "original": "too",
+        "replacement": ".",
+        "position": 20,
+        "attribution_score": 0.08786295354366302
+      }
+    },
+    {
+      "original_text": "if i hear the phrase white privilege one more time i am going to opt to come back in my next life as a black hispanic latino illegal muslim jewish faggot feminist queer gay lesbian dike transgender piece of shit in other words everything i have not been in this life",
+      "counterfactual_text": "if i hear the phrase white privilege one more time i am going to opt to come back in my next life as a black hispanic latino illegal muslim jewish faggot feminist queer gay lesbian dike transgender kind of shit in other words everything i have not been in this life",
+      "replacement": {
+        "original": "piece",
+        "replacement": "kind",
+        "position": 41,
+        "attribution_score": 0.07187177240848541
+      }
+    },
+    {
+      "original_text": "just another dumb nigger",
+      "counterfactual_text": "just another old nigger",
+      "replacement": {
+        "original": "dumb",
+        "replacement": "old",
+        "position": 3,
+        "attribution_score": 0.12100684642791748
+      }
+    },
+    {
+      "original_text": "they are going to figure out a way to kike bitcoin",
+      "counterfactual_text": "they are going to figure out a way to kike thecoin",
+      "replacement": {
+        "original": "bit",
+        "replacement": "the",
+        "position": 12,
+        "attribution_score": 0.23056378960609436
+      }
+    },
+    {
+      "original_text": "<user> the cunt of a retarded nigger pissed beads of shit into asshole of a jew kike",
+      "counterfactual_text": "< user > the cunt of a retarded nigger pissed piece of shit into asshole of a jew kike",
+      "replacement": {
+        "original": "beads",
+        "replacement": "piece",
+        "position": 15,
+        "attribution_score": 0.06520287692546844
+      }
+    },
+    {
+      "original_text": "ok give us your defense of nigger dogs tell us how they are not all like that lol i bet you are gonna sound just like some mudshark taking up for actual niggers lol",
+      "counterfactual_text": "ok give us your defense of nigger dogs tell us how they are not all like that lol i bet you are gonna sound just like some mudshark taking up for the niggers lol",
+      "replacement": {
+        "original": "actual",
+        "replacement": "the",
+        "position": 36,
+        "attribution_score": 0.059134043753147125
+      }
+    },
+    {
+      "original_text": "<user> white people have agency unlike mudslime sandniggers who kill random pedastrians without a voice all that is left is violence we will come for journalists and google executives first they will regret what they have done white rebellion free weev weev did nothing wrong just like hitler",
+      "counterfactual_text": "< user > white people have agency unlike mudslime sandniggers who kill random pedastrians without a voice all that is left is that we will come for journalists and google executives first they will regret what they have done white rebellion free weev weev did nothing wrong just like hitler",
+      "replacement": {
+        "original": "violence",
+        "replacement": "that",
+        "position": 30,
+        "attribution_score": 0.09472530335187912
+      }
+    },
+    {
+      "original_text": "jew should be hated they are a disease that needs to eradicated from among white folk they and their subhuman nigger and arab foot soldiers are the enemy their annihilation is not up for negotiation",
+      "counterfactual_text": "jew to be hated they are a disease that needs to eradicated from among white folk they and their subhuman nigger and arab foot soldiers are the enemy their annihilation is not up for negotiation",
+      "replacement": {
+        "original": "should",
+        "replacement": "to",
+        "position": 2,
+        "attribution_score": 0.03806396573781967
+      }
+    },
+    {
+      "original_text": "all these pro white christians should be deported to africa where they belong who would come out against that these subversive pieces of shit take advantage of white civilization while opening the gates for niggers we need standards that the bottom line and these nigger level iqs are dead weight",
+      "counterfactual_text": "all these pro white men should be deported to africa where they belong who would come out against that these subversive pieces of shit take advantage of white civilization while opening the gates for niggers we need standards that the bottom line and these nigger level iqs are dead weight",
+      "replacement": {
+        "original": "christians",
+        "replacement": "men",
+        "position": 5,
+        "attribution_score": 0.021633457392454147
+      }
+    },
+    {
+      "original_text": "yet another sand nigger slaughters innocents hey libscum i hope your sweet little tender daughters are next you brought this scum here now live with it",
+      "counterfactual_text": "yet another sand nigger 's innocents hey libscum i hope your sweet little tender daughters are next you brought this scum here now live with it",
+      "replacement": {
+        "original": "slaughter",
+        "replacement": "'",
+        "position": 6,
+        "attribution_score": 0.03730157017707825
+      }
+    },
+    {
+      "original_text": "lol that why i wear them i have had many confrontations with the pos muzzies and black panther scum",
+      "counterfactual_text": "lol that why i wear them i have had many confrontations with the pos muzzies and the panther scum",
+      "replacement": {
+        "original": "black",
+        "replacement": "the",
+        "position": 22,
+        "attribution_score": 0.06456201523542404
+      }
+    },
+    {
+      "original_text": "damn dat wetback needs to strap in those moobs",
+      "counterfactual_text": "damn dat wetback needs to be in those moobs",
+      "replacement": {
+        "original": "strap",
+        "replacement": "be",
+        "position": 7,
+        "attribution_score": 0.03670249879360199
+      }
+    },
+    {
+      "original_text": "zion goes down after slipping and tearing out of his shoes he limps off on his own power jack white in to the game",
+      "counterfactual_text": "zion goes down after slipping and tearing out of his shoes he limps off on his own power bringing white in to the game",
+      "replacement": {
+        "original": "jack",
+        "replacement": "bringing",
+        "position": 20,
+        "attribution_score": 0.2187560796737671
+      }
+    },
+    {
+      "original_text": "feisty little girl white walker giant feisty young woman the night king nuff said got",
+      "counterfactual_text": "feisty little girl white wolf giant feisty young woman the night king nuff said got",
+      "replacement": {
+        "original": "walker",
+        "replacement": "wolf",
+        "position": 6,
+        "attribution_score": 1.5344252586364746
+      }
+    },
+    {
+      "original_text": "nude pictures of older women xl sex toys online sex chat sites top <number> celebrity boobs",
+      "counterfactual_text": "nude pictures of older women xl sex toys online sex chat sites top < number > celebrity facebookbs",
+      "replacement": {
+        "original": "boo",
+        "replacement": "facebook",
+        "position": 18,
+        "attribution_score": 0.8372976779937744
+      }
+    },
+    {
+      "original_text": "silk sheets and diamonds all white",
+      "counterfactual_text": "silk sheets and pillows all white",
+      "replacement": {
+        "original": "diamonds",
+        "replacement": "pillows",
+        "position": 4,
+        "attribution_score": 0.09108109772205353
+      }
+    },
+    {
+      "original_text": "ion hang wit bitches who niggas are insecure",
+      "counterfactual_text": "ion hang wit bitches who wearggas are insecure",
+      "replacement": {
+        "original": "ni",
+        "replacement": "wear",
+        "position": 7,
+        "attribution_score": 0.21990728378295898
+      }
+    },
+    {
+      "original_text": "you niggers need to sack up and tweet nigger",
+      "counterfactual_text": "you niggers need to get up and tweet nigger",
+      "replacement": {
+        "original": "sack",
+        "replacement": "get",
+        "position": 7,
+        "attribution_score": 0.3245033025741577
+      }
+    },
+    {
+      "original_text": "the gap between blackpink and other artists 🤭",
+      "counterfactual_text": "the gap between blackpink and other species [UNK]",
+      "replacement": {
+        "original": "artists",
+        "replacement": "species",
+        "position": 9,
+        "attribution_score": 0.37142062187194824
+      }
+    },
+    {
+      "original_text": "girls like a mix of protective let me be a slut",
+      "counterfactual_text": "sounds like a mix of protective let me be a slut",
+      "replacement": {
+        "original": "girls",
+        "replacement": "sounds",
+        "position": 1,
+        "attribution_score": 0.5811076760292053
+      }
+    },
+    {
+      "original_text": "that is the muzrat strategy in every country they infest",
+      "counterfactual_text": "that is the samezrat strategy in every country they infest",
+      "replacement": {
+        "original": "mu",
+        "replacement": "same",
+        "position": 4,
+        "attribution_score": 0.0979301705956459
+      }
+    },
+    {
+      "original_text": "you are a lady uyasebenta and independent you drive a nice car you own a nice apartment you are beautiful and fun but every weekend you wake up with a different guy in bed cry and claim you were raped you do not even remember having sex with them wtf yini lenkinga i am lost",
+      "counterfactual_text": "you are a lady uyasebenta and independent you drive a nice car you own a nice apartment you are beautiful and fun but every weekend you wake up with a different woman in bed cry and claim you were raped you do not even remember having sex with them wtf yini lenkinga i am lost",
+      "replacement": {
+        "original": "guy",
+        "replacement": "woman",
+        "position": 36,
+        "attribution_score": 0.25711771845817566
+      }
+    },
+    {
+      "original_text": "dm to paypal me faggots cash fag paypig cash master cash slave",
+      "counterfactual_text": "dm to paypal me faggots cash fag paypig cash master cash .",
+      "replacement": {
+        "original": "slave",
+        "replacement": ".",
+        "position": 19,
+        "attribution_score": 0.1480836570262909
+      }
+    },
+    {
+      "original_text": "adulting so ghetto i did not sign up for this 🤦 🏽 ‍ ♀️",
+      "counterfactual_text": "[UNK]ing so ghetto i did not sign up for this [UNK] [UNK] [UNK]",
+      "replacement": {
+        "original": "adult",
+        "replacement": "[UNK]",
+        "position": 1,
+        "attribution_score": 1.065122365951538
+      }
+    },
+    {
+      "original_text": "sorry about the nigger comment but even blacks do not like niggers",
+      "counterfactual_text": "talk about the nigger comment but even blacks do not like niggers",
+      "replacement": {
+        "original": "sorry",
+        "replacement": "talk",
+        "position": 1,
+        "attribution_score": 0.1469723880290985
+      }
+    },
+    {
+      "original_text": "it officially spooky szn bitch",
+      "counterfactual_text": "it officially becameooky szn bitch",
+      "replacement": {
+        "original": "sp",
+        "replacement": "became",
+        "position": 3,
+        "attribution_score": 0.1669897735118866
+      }
+    },
+    {
+      "original_text": "nd only <percent> nigger but jewish culture should be taken into account here thanks jews",
+      "counterfactual_text": "nd only < percent of nigger but jewish culture should be taken into account here thanks jews",
+      "replacement": {
+        "original": ">",
+        "replacement": "of",
+        "position": 6,
+        "attribution_score": 0.11648686975240707
+      }
+    },
+    {
+      "original_text": "this nigger calling me juicy lips over the phone wtf",
+      "counterfactual_text": "this nigger gave me juicy lips over the phone wtf",
+      "replacement": {
+        "original": "calling",
+        "replacement": "gave",
+        "position": 4,
+        "attribution_score": 0.20384585857391357
+      }
+    },
+    {
+      "original_text": "there a distinction between refugee and illegal migrant a refugee is a victim of persecution illegal migrants are not victims of persecution nrc will identify the illegal migrants citizenship act wd give refugees a new life my request to <user> add ahmadis",
+      "counterfactual_text": "there a distinction between refugee and illegal migrant a refugee is a victim of persecution illegal migrants are not victims of persecution nrc will identify the illegal migrants citizenship act wd give refugees a new life my request to < user > add itis",
+      "replacement": {
+        "original": "ahmad",
+        "replacement": "it",
+        "position": 46,
+        "attribution_score": 0.842627763748169
+      }
+    },
+    {
+      "original_text": "dwts they all look good in white",
+      "counterfactual_text": "dwts they all look great in white",
+      "replacement": {
+        "original": "good",
+        "replacement": "great",
+        "position": 7,
+        "attribution_score": 0.1352432668209076
+      }
+    },
+    {
+      "original_text": "create a list destabilizing violence",
+      "counterfactual_text": "create a list destabilizing .",
+      "replacement": {
+        "original": "violence",
+        "replacement": ".",
+        "position": 8,
+        "attribution_score": 0.0799202173948288
+      }
+    },
+    {
+      "original_text": "<user> sup faggot suck my two inch cock thru my old navy jeans",
+      "counterfactual_text": "< user > sup faggot , my two inch cock thru my old navy jeans",
+      "replacement": {
+        "original": "suck",
+        "replacement": ",",
+        "position": 9,
+        "attribution_score": 0.1981305032968521
+      }
+    },
+    {
+      "original_text": "you all niggers are cancers",
+      "counterfactual_text": "you all niggers have cancers",
+      "replacement": {
+        "original": "are",
+        "replacement": "have",
+        "position": 6,
+        "attribution_score": 0.07677789777517319
+      }
+    },
+    {
+      "original_text": "bitches always worrying about me cough cough <user> dumb hoe",
+      "counterfactual_text": "bitches are worrying about me cough cough < user > dumb hoe",
+      "replacement": {
+        "original": "always",
+        "replacement": "are",
+        "position": 3,
+        "attribution_score": 0.1485310047864914
+      }
+    },
+    {
+      "original_text": "man i hate niggers",
+      "counterfactual_text": "man , hate niggers",
+      "replacement": {
+        "original": "i",
+        "replacement": ",",
+        "position": 2,
+        "attribution_score": 0.07502682507038116
+      }
+    },
+    {
+      "original_text": "hop sing no jew yes but i bet they looked for a jew to play his part then came to conclusion we can not find a jew that will fit the role okay let us get a gook at minimum wage",
+      "counterfactual_text": "hoppy no jew yes but i bet they looked for a jew to play his part then came to conclusion we can not find a jew that will fit the role okay let us get a gook at minimum wage",
+      "replacement": {
+        "original": "sing",
+        "replacement": "##py",
+        "position": 2,
+        "attribution_score": 0.0705043375492096
+      }
+    },
+    {
+      "original_text": "this yid endicted yet not arrested and",
+      "counterfactual_text": "this 'd endicted yet not arrested and",
+      "replacement": {
+        "original": "yi",
+        "replacement": "'",
+        "position": 2,
+        "attribution_score": 0.42591357231140137
+      }
+    },
+    {
+      "original_text": "ima bitch i will admit it",
+      "counterfactual_text": "ima bitch i will do it",
+      "replacement": {
+        "original": "admit",
+        "replacement": "do",
+        "position": 6,
+        "attribution_score": 0.14420509338378906
+      }
+    },
+    {
+      "original_text": "rafiullah shaheed a young man from levi force was shot dead by unknown men in muslim bagh a levies officer was killed in a bomb blast in lashkar gah on sunday while militants were also killed on the same day three people including mullahaniyev were killed in chaman",
+      "counterfactual_text": "rafiullah shaheed a young man from air force was shot dead by unknown men in muslim bagh a levies officer was killed in a bomb blast in lashkar gah on sunday while militants were also killed on the same day three people including mullahaniyev were killed in chaman",
+      "replacement": {
+        "original": "levi",
+        "replacement": "air",
+        "position": 23,
+        "attribution_score": 0.26655256748199463
+      }
+    },
+    {
+      "original_text": "sabine wren is a raging queer",
+      "counterfactual_text": "sabine wren is a raging .",
+      "replacement": {
+        "original": "queer",
+        "replacement": ".",
+        "position": 6,
+        "attribution_score": 2.059702157974243
+      }
+    },
+    {
+      "original_text": "do not know if i just seen joker or a really weird episode of atlanta 🤔 either way film was very well done relevant phoenix was brilliant",
+      "counterfactual_text": "do not know if i just seen joker or a really good episode of atlanta [UNK] either way film was very well done relevant phoenix was brilliant",
+      "replacement": {
+        "original": "weird",
+        "replacement": "good",
+        "position": 12,
+        "attribution_score": 0.3286270797252655
+      }
+    },
+    {
+      "original_text": "then hoes stole my choreo and still managed to make it look bad and lose with it lmfao",
+      "counterfactual_text": "then hoes stole my ...reo and still managed to make it look bad and lose with it lmfao",
+      "replacement": {
+        "original": "cho",
+        "replacement": "...",
+        "position": 6,
+        "attribution_score": 0.04774708300828934
+      }
+    },
+    {
+      "original_text": "microchip has had more nigger cocks in him than a kfc urinal in chicongo on mlk day 😎",
+      "counterfactual_text": "microchip has had more nigger cocks in him than a singlefc urinal in chicongo on mlk day [UNK]",
+      "replacement": {
+        "original": "k",
+        "replacement": "single",
+        "position": 15,
+        "attribution_score": 0.03748760372400284
+      }
+    },
+    {
+      "original_text": "god bless james earl ray putting down that nigger mlk to save all those white girls from his rapist cock maga",
+      "counterfactual_text": "god bless james earl ray putting on that nigger mlk to save all those white girls from his rapist cock maga",
+      "replacement": {
+        "original": "down",
+        "replacement": "on",
+        "position": 7,
+        "attribution_score": 0.05050297826528549
+      }
+    },
+    {
+      "original_text": "<user> one of two things is happening here <number> that girl was raped and is misplacing her pain <number> the girl is insanely jealous of kaitlyn based on biology degree dig i am thinking this one",
+      "counterfactual_text": "< user > one of two things is happening here < number > that girl was raped and is misplacing her pain < number > the girl is insanely jealous of me based on biology degree dig i am thinking this one",
+      "replacement": {
+        "original": "kaitlyn",
+        "replacement": "me",
+        "position": 35,
+        "attribution_score": 0.1478535532951355
+      }
+    },
+    {
+      "original_text": "fucking ulgly ass bitch ass stinky ass bitch ass nigger slave nigger teacher faggot peace of shit suck a dick",
+      "counterfactual_text": "fucking ulgly ass bitch ass bitchy ass bitch ass nigger slave nigger teacher faggot peace of shit suck a dick",
+      "replacement": {
+        "original": "stink",
+        "replacement": "bitch",
+        "position": 7,
+        "attribution_score": 0.016084328293800354
+      }
+    },
+    {
+      "original_text": "god made the niggers he made them in the night he made them in a hurry and forgot to paint them white",
+      "counterfactual_text": "god made the twoggers he made them in the night he made them in a hurry and forgot to paint them white",
+      "replacement": {
+        "original": "ni",
+        "replacement": "two",
+        "position": 4,
+        "attribution_score": 0.04843520373106003
+      }
+    },
+    {
+      "original_text": "<user> <user> no one inayah a retarded faggot rather have porridge that the reason u numpty you are big gay",
+      "counterfactual_text": "< user } < user > no one inayah a retarded faggot rather have porridge that the reason u numpty you are big gay",
+      "replacement": {
+        "original": ">",
+        "replacement": "}",
+        "position": 6,
+        "attribution_score": 0.07413993775844574
+      }
+    },
+    {
+      "original_text": "<user> <user> great poet",
+      "counterfactual_text": "< user > < user > < poet",
+      "replacement": {
+        "original": "great",
+        "replacement": "<",
+        "position": 7,
+        "attribution_score": 0.1415446698665619
+      }
+    },
+    {
+      "original_text": "you are next kike",
+      "counterfactual_text": "we are next kike",
+      "replacement": {
+        "original": "you",
+        "replacement": "we",
+        "position": 1,
+        "attribution_score": 0.21711909770965576
+      }
+    },
+    {
+      "original_text": "the labour party has <number> mps in prison for paedophilia <number> mps and councillors on the sex registry <number> million white kids raped by paki muslims all labour voters covered up by labour councils mps and a pm",
+      "counterfactual_text": "the labour party has < number > mps in prison for paedophilia < number > mps and councillors on the sex registry < number > million muslim kids raped by paki muslims all labour voters covered up by labour councils mps and a pm",
+      "replacement": {
+        "original": "white",
+        "replacement": "muslim",
+        "position": 30,
+        "attribution_score": 0.05534380301833153
+      }
+    },
+    {
+      "original_text": "i vote <number> genocide for the arab and nigger scum raping our women killing our people and destroying europe also include the traitors who support the destruction of our people and our ancestral homelands white power",
+      "counterfactual_text": "i . < number > genocide for the arab and nigger scum raping our women killing our people and destroying europe also include the traitors who support the destruction of our people and our ancestral homelands white power",
+      "replacement": {
+        "original": "vote",
+        "replacement": ".",
+        "position": 2,
+        "attribution_score": 0.07738300412893295
+      }
+    },
+    {
+      "original_text": "well when i was in the air force they thought i was a dyke plumber bitch so there ya go opinions are like assholes",
+      "counterfactual_text": "well when i was in the air force they thought i was the dyke plumber bitch so there ya go opinions are like assholes",
+      "replacement": {
+        "original": "a",
+        "replacement": "the",
+        "position": 13,
+        "attribution_score": 0.08613169193267822
+      }
+    },
+    {
+      "original_text": "if the bbi will end the circle of violence and tension after every five years then bring it on",
+      "counterfactual_text": "\" the bbi will end the circle of violence and tension after every five years then bring it on",
+      "replacement": {
+        "original": "if",
+        "replacement": "\"",
+        "position": 1,
+        "attribution_score": 0.145284965634346
+      }
+    },
+    {
+      "original_text": "i am so tired of corporate america i am only <number> years old and i feel like i have been in this bitch for <number> years",
+      "counterfactual_text": "i am so proud of corporate america i am only < number > years old and i feel like i have been in this bitch for < number > years",
+      "replacement": {
+        "original": "tired",
+        "replacement": "proud",
+        "position": 4,
+        "attribution_score": 0.35028815269470215
+      }
+    },
+    {
+      "original_text": "lol get a load of this kike",
+      "counterfactual_text": "lol get a load of it kike",
+      "replacement": {
+        "original": "this",
+        "replacement": "it",
+        "position": 7,
+        "attribution_score": 0.1454867720603943
+      }
+    },
+    {
+      "original_text": "pls call this coon out for the of impoverished blks living on he brink while he and his clowngressional bleak carcass cbc use every avenue to distract from their cowardly performances",
+      "counterfactual_text": "pls call this coon out for the poor impoverished blks living on he brink while he and his clowngressional bleak carcass cbc use every avenue to distract from their cowardly performances",
+      "replacement": {
+        "original": "of",
+        "replacement": "poor",
+        "position": 10,
+        "attribution_score": 0.16080598533153534
+      }
+    },
+    {
+      "original_text": "<user> <user> <user> to what the israeli government does they are so wrong and even gal has spoken up against netanyahu anti arab racism but even poc could uphold white supremacy while still being targeted by white supremacists many non white latinx jews arabs etc can uphold white supremacy",
+      "counterfactual_text": "< user > < user > < user > to what the israeli government does they are so wrong and even gal has spoken up against netanyahu anti arab racism but even poc could uphold white supremacy while still being targeted by white supremacists many non white latinx and arabs etc can uphold white supremacy",
+      "replacement": {
+        "original": "jews",
+        "replacement": "and",
+        "position": 56,
+        "attribution_score": 0.9239633679389954
+      }
+    },
+    {
+      "original_text": "from <date> to <date> the office of refugee resettlement received a total of <number> allegations of sexual abuse or sexual harassment from the government funded detention facilities and only <number> were referred to the justice dept",
+      "counterfactual_text": "from < date > to < date > the office of refugee resettlement received a total of < number > complaints of sexual abuse or sexual harassment from the government funded detention facilities and only < number > were referred to the justice dept",
+      "replacement": {
+        "original": "allegations",
+        "replacement": "complaints",
+        "position": 22,
+        "attribution_score": 0.05473703891038895
+      }
+    },
+    {
+      "original_text": "the chink salivates as the salamander cries out in extinction",
+      "counterfactual_text": "the chink -tes as the salamander cries out in extinction",
+      "replacement": {
+        "original": "saliva",
+        "replacement": "-",
+        "position": 4,
+        "attribution_score": 0.04506239667534828
+      }
+    },
+    {
+      "original_text": "<user> <user> <user> <user> <user> follow the thread they are the many people who do not know the difference between illegal immigrant refugee asylum seeker etc",
+      "counterfactual_text": "< user > < user > < user > < user > < user > follow the thread they are the many people who do not know the difference between illegal immigrant and asylum seeker etc",
+      "replacement": {
+        "original": "refugee",
+        "replacement": "and",
+        "position": 33,
+        "attribution_score": 0.1038961261510849
+      }
+    },
+    {
+      "original_text": "<user> you need potassium eat a banana you fucking nigger",
+      "counterfactual_text": "< user > you need potassium and a banana you fucking nigger",
+      "replacement": {
+        "original": "eat",
+        "replacement": "and",
+        "position": 7,
+        "attribution_score": 0.10243433713912964
+      }
+    },
+    {
+      "original_text": "also in this same vibe any wigger who calls white missionaries who save the lives of non white children in africa india ect a race traitor is an actual h0m0",
+      "counterfactual_text": "also in this same vibe any whiteger who calls white missionaries who save the lives of non white children in africa india ect a race traitor is an actual h0m0",
+      "replacement": {
+        "original": "wig",
+        "replacement": "white",
+        "position": 7,
+        "attribution_score": 0.31365495920181274
+      }
+    },
+    {
+      "original_text": "so none of you all hoes want to get that waist snatched hurd it",
+      "counterfactual_text": "so none of you all hoes want to get that waist to hurd it",
+      "replacement": {
+        "original": "snatched",
+        "replacement": "to",
+        "position": 13,
+        "attribution_score": 0.018023675307631493
+      }
+    },
+    {
+      "original_text": "honestly man most of you guys are nigger faggots",
+      "counterfactual_text": "\" man most of you guys are nigger faggots",
+      "replacement": {
+        "original": "honestly",
+        "replacement": "\"",
+        "position": 1,
+        "attribution_score": 0.10718830674886703
+      }
+    },
+    {
+      "original_text": "old dude just opened the sauna door stared in here for <number> seconds and walked away close the door faggot",
+      "counterfactual_text": "old dude just opened the sauna door stared in here for < number > seconds and walked away close the door .ggot",
+      "replacement": {
+        "original": "fa",
+        "replacement": ".",
+        "position": 23,
+        "attribution_score": 0.1121000126004219
+      }
+    },
+    {
+      "original_text": "he just throwing that hoe up",
+      "counterfactual_text": "he just throwing that 'e up",
+      "replacement": {
+        "original": "ho",
+        "replacement": "'",
+        "position": 5,
+        "attribution_score": 0.5110456943511963
+      }
+    },
+    {
+      "original_text": "make the word nigger great again make racial slurs great again my dad told us bedtime stories w bad guys jip the jap jigaboo jones his mom my german grandmother w german accent always called blacks darkies jews jewish shysters <user> pc terminology is part of the brainwashing",
+      "counterfactual_text": "make the word nigger great again make racial slurs great again my dad told us bedtime stories w bad guys jip the jap jigaboo jones his mom my german grandmother w german accent always called blacks darkies jews jewish shysters < user > pcp is part of the brainwashing",
+      "replacement": {
+        "original": "terminology",
+        "replacement": "##p",
+        "position": 55,
+        "attribution_score": 0.08730478584766388
+      }
+    },
+    {
+      "original_text": "what a pakis favorite clothing brand jihadidas",
+      "counterfactual_text": "is a pakis favorite clothing brand jihadidas",
+      "replacement": {
+        "original": "what",
+        "replacement": "is",
+        "position": 1,
+        "attribution_score": 0.1365177482366562
+      }
+    },
+    {
+      "original_text": "through the security council of the united nations colonialist powers have always ensured the division and occupation of muslim lands themselves or assisted others in doing so یو این چھوڑ خلافت لا کشمیر کو آزاد کرا",
+      "counterfactual_text": "through the security council of the united nations colonialist powers have always ensured the division and occupation of the lands themselves or assisted others in doing so یو این [UNK] خلافت لا کشمیر کو ازاد کرا",
+      "replacement": {
+        "original": "muslim",
+        "replacement": "the",
+        "position": 20,
+        "attribution_score": 0.48806729912757874
+      }
+    },
+    {
+      "original_text": "amber guyer this shot a man in his own place bitch got what she deserved justice for botham jean",
+      "counterfactual_text": "amber guyer this shot a man in his own place bitch got what she owed justice for botham jean",
+      "replacement": {
+        "original": "deserved",
+        "replacement": "owed",
+        "position": 16,
+        "attribution_score": 0.032510820776224136
+      }
+    },
+    {
+      "original_text": "a negress too dumb to fuck has a scant chance of understanding anything beyond the size of a dick",
+      "counterfactual_text": "a negress too big to fuck has a scant chance of understanding anything beyond the size of a dick",
+      "replacement": {
+        "original": "dumb",
+        "replacement": "big",
+        "position": 6,
+        "attribution_score": 0.062193162739276886
+      }
+    },
+    {
+      "original_text": "fuck what this kike cunt has to say only thing she is good for is sticking a cock down her throat so she can not talk",
+      "counterfactual_text": "and what this kike cunt has to say only thing she is good for is sticking a cock down her throat so she can not talk",
+      "replacement": {
+        "original": "fuck",
+        "replacement": "and",
+        "position": 1,
+        "attribution_score": 0.0672168955206871
+      }
+    }
+  ]
+}
